@@ -7,3 +7,5 @@ paths:
   # Exclude txt files
   - "!03-core-features/filters/*.txt"
 ```
+
+Testing path filter
